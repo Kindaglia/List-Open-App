@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(45, 43, 85);
+    font-size: larger;
+    color: antiquewhite;
+}
+a:link {
+    color:antiquewhite;
+}
+a:visited {
+    color: rgb(0, 102, 128);
+}
